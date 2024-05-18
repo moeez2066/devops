@@ -1,0 +1,8 @@
+{
+  "mongoURI": "mongodb://mongodb:27017/devsocial",
+  "jwtSecret": "i`2+O}r}Uzi:|~=js9R8;-@i~6es+jQK4}HYs4T#W#+KU'kUxFbk!)w7-h@4-J!",
+  "githubToken": "583d0db48746dcad4cf934599a9a2e94f4a84a5c",
+  "NODE_ENV":"production",
+  "baseURL":"http://server:5000"
+  
+}
